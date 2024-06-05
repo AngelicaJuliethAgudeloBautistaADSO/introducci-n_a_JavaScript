@@ -1,0 +1,52 @@
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* General body styles */
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Navigation container */
+.nav {
+    background-color: #fc9595;
+    padding: 1rem;
+    border-radius: 8px;
+}
+
+/* Unordered list styles */
+.ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+}
+
+/* List item styles */
+.li {
+    margin: 0.5rem;
+}
+
+/* Link styles */
+.li a {
+    display: block;
+    padding: 0.5rem 1rem;
+    background-color: #daecff;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+}
+
+/* Link hover effect */
+.li a:hover {
+    background-color: #0056b3;
+}
