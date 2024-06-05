@@ -1,0 +1,6 @@
+[
+    { "nombre": "Angelica", "edad": 19, "ciudad": "Bucaramanga" },
+    { "nombre": "Duvan", "edad": 20, "ciudad": "Floridablanca" },
+    { "nombre": "Ana", "edad": 28, "ciudad": "Medellin" },
+    { "nombre": "Gloria", "edad": 30, "ciudad": "Bogota" }
+]
